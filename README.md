@@ -1,0 +1,2 @@
+# Analise_exploratoria_sinan
+O Brasil, segundo o Observatório Digital de Saúde e Segurança do Trabalho (SmartLab), registra um acidente de trabalho a cada 45 segundos, estatística muito alta que pode ser evitada com um pouco de conscientização e prevenção.  Nenhum empregador e/ou muito menos um trabalhador gostaria de passar por uma situação de acidente de trabalho, você pensa da mesma forma? Realmente é algo delicado, que pode e deve ser compreendido e evitado nos ambientes de trabalho.
